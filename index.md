@@ -18,4 +18,4 @@ git clone https://github.com/accellera-official/systemc.git
 
 We will be running SystemC on Windows Subsystem for Linux (WSL). Following article looks at this process in detail. If you have already set it up, you can skip it.
 
-[Next: WSL Setup](https://github.com/pgudadhe/SystemC-Setup-for-VSCode-Windows/wiki/Setting-up-Windows-Subsystem-for-Linux-(WSL))
+[Next: WSL Setup>](https://pgudadhe.github.io/SystemC-Setup-for-VSCode-Windows/wsl)
