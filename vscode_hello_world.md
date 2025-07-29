@@ -125,6 +125,6 @@ set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
 ```
 
-This cooncludes our environment setup for the SC_HelloWorld project. In the next article I will walk through the helloworld.cpp file.
+This concludes our environment setup for the SC_HelloWorld project. In the next article I will walk through the helloworld.cpp file.
 
 [Home](https://pgudadhe.github.io/)
